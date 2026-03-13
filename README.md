@@ -6,7 +6,7 @@
 This project performs Exploratory Data Analysis (EDA) on a sales dataset to identify patterns, relationships, and key business insights.
 Using Python and data visualization libraries, we analyze how factors like sales, quantity, and marketing spend influence revenue.
 
----
+
 
 ##  Objective
 
@@ -15,7 +15,7 @@ Using Python and data visualization libraries, we analyze how factors like sales
 * Visualize relationships between variables
 * Identify key insights from the sales data
 
----
+
 
 ##  Tools & Technologies
 
@@ -25,7 +25,7 @@ Using Python and data visualization libraries, we analyze how factors like sales
 * Seaborn
 * Jupyter Notebook / Google Colab
 
----
+
 
 ##  Dataset Information
 
@@ -42,7 +42,7 @@ The dataset contains sales transaction data with the following columns:
 | marketing_spend  | Marketing expenditure   |
 | revenue          | Total revenue generated |
 
----
+
 
 ##  Analysis Performed
 
@@ -54,7 +54,7 @@ The following analyses were performed:
 4. Correlation analysis using heatmap
 5. Visualization of relationships between variables
 
----
+
 
 ##  Visualizations
 
@@ -65,7 +65,7 @@ The project includes several visualizations such as:
 * Correlation Heatmap
 * Marketing Spend vs Revenue Scatter Plot
 
----
+
 
 ##  Key Insights
 
@@ -73,7 +73,7 @@ The project includes several visualizations such as:
 * Quantity sold contributes significantly to revenue.
 * Marketing spend shows very weak correlation with revenue in this dataset.
 
----
+
 
 ##  Repository Structure
 
@@ -90,7 +90,7 @@ sales-data-analysis
 │
 └── README.md
 
----
+
 
 ##  How to Run the Project
 
@@ -104,7 +104,7 @@ pip install pandas matplotlib seaborn
 
 4. Run the notebook cells step by step.
 
----
+
 
 ##  Future Improvements
 
@@ -112,7 +112,7 @@ pip install pandas matplotlib seaborn
 * Build predictive models using machine learning
 * Create an interactive dashboard for insights
 
----
+
 
 
 
